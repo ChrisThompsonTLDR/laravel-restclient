@@ -18,5 +18,5 @@
             "Nathanmac\\RestClient\\": "src/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
